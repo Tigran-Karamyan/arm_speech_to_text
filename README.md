@@ -1,1 +1,1 @@
-# arm_speech_to_text
+Armenian Speech Recognition Tool.
