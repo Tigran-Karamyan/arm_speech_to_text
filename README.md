@@ -1,1 +1,1 @@
-## Armenian Speech Recognition Tool.
+## Armenian Speech Recognition Tool
